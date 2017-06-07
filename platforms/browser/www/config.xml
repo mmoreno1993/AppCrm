@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.starsoft.crm" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Consulta para Usuarios</name>
+    <description>
+        Consulta para Usuarios
+    </description>
+    <author email="publicidad@starsoft.com.pe" href="http://www.starsoft.com.pe">
+        Sistemas Starsoft
+    </author>
+    <content src="index.html" />
+    <icon src="icon.png" />
+    <access origin="*" />
+</widget>
